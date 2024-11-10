@@ -1,3 +1,7 @@
+Henry Radar
+
+300228908
+
 # EmployeeApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
